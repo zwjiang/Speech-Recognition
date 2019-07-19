@@ -6,3 +6,4 @@ What is it going to do?
 Functionalities
 1. Use words "UP" "DOWN" to control the website scrolling using a bit of javascript.
 Will add onto other functionalities 
+2. Use another Speech Recognition provider (https://cloud.google.com/speech-to-text/docs/quickstart-protocol)

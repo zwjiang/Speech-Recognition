@@ -1,0 +1,19 @@
+{
+  "name": "speech-recognition",
+  "version": "1.0.0",
+  "description": "Using the starter template (https://github.com/timcreative/udemy-pk2) build a website that uses IBM Watson Speech to Text API (https://www.ibm.com/watson/services/speech-to-text/).",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwjiang/Speech-Recognition.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwjiang/Speech-Recognition/issues"
+  },
+  "homepage": "https://github.com/zwjiang/Speech-Recognition#readme"
+}
